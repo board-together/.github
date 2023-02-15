@@ -1,6 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -53,7 +50,6 @@ Board Together is a board game platform that allows users to create their own pr
 
 Board Together is a full-stack application combining a React frontend and Ruby on Rails backend, deployed to Heroku for the backend and Surge for the frontend. The frontend handles client-side tasks and displays data from the backend, which handles server-side logic and database operations. Deployment involves building the React frontend, integrating it with the Rails backend, and pushing the code to production. The application can be accessed at the below URL.
 
-* <a href="https://board-together.herokuapp.com/" alt="Heroku Deployment">Backend Heroku Deployment</a><br>
 * <a href="https://FILL-IN-WITH-FE-LINk" alt="Surge Deployment">Frontend Surge Deployment</a><br>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -196,13 +192,3 @@ Turing School of Software Design: [https://turing.edu/](https://turing.edu/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/board-together/BE-Board-Together.svg?style=for-the-badge
-[contributors-url]: https://github.com/orgs/board-together/people
-[forks-shield]: https://img.shields.io/github/forks/board-together/BE-Board-Together.svg?style=for-the-badge
-[forks-url]: https://github.com/board-together/BE-Board-Together/network/members
-[stars-shield]: https://img.shields.io/github/stars/board-together/BE-Board-Together.svg?style=for-the-badge
-[stars-url]: https://github.com/board-together/BE-Board-Together/stargazers
-[issues-shield]: https://img.shields.io/github/issues/board-together/BE-Board-Together.svg?style=for-the-badge
-[issues-url]: https://github.com/board-together/BE-Board-Together/issues
-[license-shield]: https://img.shields.io/github/license/board-together/BE-Board-Together.svg?style=for-the-badge
-[license-url]: https://github.com/board-together/BE-Board-Together/blob/master/LICENSE.txt
