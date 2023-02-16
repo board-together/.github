@@ -48,9 +48,10 @@ Board Together is a board game platform that allows users to create their own pr
 <!-- Deployment Information -->
 ### Deployment Information
 
-Board Together is a full-stack application combining a React frontend and Ruby on Rails backend, deployed to Heroku for the backend and Surge for the frontend. The frontend handles client-side tasks and displays data from the backend, which handles server-side logic and database operations. Deployment involves building the React frontend, integrating it with the Rails backend, and pushing the code to production. The application can be accessed at the below URL.
+Board Together is a full-stack application combining a React frontend deployed to Surge, and Ruby on Rails backend deployed to Heroku. The frontend handles client-side tasks and displays data from the backend, which handles server-side logic and database operations. Deployment involves building the React frontend, integrating it with the Rails backend, and pushing the code to Heroku. The application can be accessed at the Surge URL.
 
-* <a href="https://FILL-IN-WITH-FE-LINk" alt="Surge Deployment">Frontend Surge Deployment</a><br>
+* <a href="https://board-together.surge.sh/" alt="Surge Deployment">Frontend Surge Deployment</a>
+* <a href="https://board-together.herokuapp.com/" alt="Heroku Deployment">Backend Heroku Deployment</a><br>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
